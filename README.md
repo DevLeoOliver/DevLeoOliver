@@ -1,6 +1,6 @@
 ## Leonardo Oliveira
 
-Me chamo Leonardo, sou formado em Técnico em Informática pelo e atualmente curso Análise e Desenvolvimento de Sistemas (ADS).
+Me chamo Leonardo, sou formado em Técnico em Informática e atualmente curso Análise e Desenvolvimento de Sistemas (ADS).
 
 Tenho interesse em tecnologia e desenvolvimento de software, buscando constantemente aprimorar meus conhecimentos, desenvolver projetos e evoluir como profissional da área de TI. 🚀
 
