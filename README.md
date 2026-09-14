@@ -14,7 +14,7 @@ Tenho interesse em tecnologia e desenvolvimento de software, buscando constantem
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
