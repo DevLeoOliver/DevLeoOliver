@@ -6,8 +6,8 @@ Tenho interesse em tecnologia e desenvolvimento de software, buscando constantem
 
 <a href="https://github.com/DevLeoOliver?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de seguidores" 
-            title="Total de seguidores GitHub" 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/DevLeoOliver?color=fffff&style=for-the-badge&labelColor=ffff&logo=Github&label=seguidores"
         />
 </a>
