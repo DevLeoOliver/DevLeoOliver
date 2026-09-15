@@ -4,7 +4,7 @@ Me chamo Leonardo, sou formado em Técnico em Informática e atualmente curso An
 
 Tenho interesse em tecnologia e desenvolvimento de software, buscando constantemente aprimorar meus conhecimentos, desenvolver projetos e evoluir como profissional da área de TI. 🚀
 
-<a href="https://github.com/DevLeoOliver?tab=repositories&sort=stargazers">
+<a href="https://github.com/DevLeoOliver?tab=followers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
